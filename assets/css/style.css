@@ -1,10 +1,10 @@
 body {
     background-color: #E87924;
-    background-image: url(../icons/Fundo_frag.svg);
 }
 
 .bg-dark {
     background-color: #A64200 !important;
+    background-image: url(../../visuals/icons/Fundo_frag.svg); 
 }
 
 .navbar-toggler {
@@ -15,5 +15,3 @@ body {
 .dropdown-item {
     cursor: pointer;
 }
-
-/*# sourceMappingURL=style.css.map */
