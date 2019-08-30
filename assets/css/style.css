@@ -4,7 +4,10 @@ body {
 
 .bg-dark {
     background-color: #A64200 !important;
-    background-image: url(../../visuals/icons/Fundo_frag.svg); 
+    background-image: url(../../visuals/icons/Fundo_frag.svg);
+    background-size: 500px;
+    background-position-y: 75%;
+    background-repeat: repeat-x;
 }
 
 .navbar-toggler {
@@ -14,4 +17,12 @@ body {
 
 .dropdown-item {
     cursor: pointer;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 1);
 }
