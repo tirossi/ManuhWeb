@@ -11,7 +11,7 @@ body {
 }
 
 .navbar-toggler {
-    background-color: #E87924;
+    background-color: rgba(232, 121, 36, 0.5);
     border: 1px solid white;
 }
 
@@ -20,9 +20,9 @@ body {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(249,249,249, 1);
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(249, 249, 249, 0.8);
 }
