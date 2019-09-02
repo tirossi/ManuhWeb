@@ -1,7 +1,7 @@
 body {
-    background-color: #A64200;
+    background-color: rgb(202, 81, 0);
     background-image: url(../visuals/icons/Fundo_frag.svg);
-    background-size: 1600px;
+    background-size: 2000px;
     background-position-y: 100%;
     background-repeat: repeat-x;
 }
