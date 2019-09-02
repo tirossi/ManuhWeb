@@ -4,7 +4,7 @@ body {
 
 .bg-dark {
     background-color: #A64200 !important;
-    background-image: url(../../visuals/icons/Fundo_frag.svg);
+    background-image: url(../visuals/icons/Fundo_frag.svg);
     background-size: 500px;
     background-position-y: 75%;
     background-repeat: repeat-x;
