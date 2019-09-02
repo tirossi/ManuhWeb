@@ -1,7 +1,7 @@
 body {
     background-color: #A64200;
     background-image: url(../visuals/icons/Fundo_frag.svg);
-    background-size: 1400px;
+    background-size: 1600px;
     background-position-y: 100%;
     background-repeat: repeat-x;
 }
@@ -31,18 +31,18 @@ body {
     color: rgba(249, 249, 249, 0.8);
 }
 
-.seg {
+.text-white {
     color: rgba(249,249,249, 1);
 }
 
 .btn-primary {
-    color: #fff;
+    color: rgba(249,249,249, 1);
     background-color: rgb(232, 121, 36) ;
     border-color: white;
 }
 
 .btn-primary:hover {
-    background-color: red;
+    background-color: rgb(255, 121, 36);
     border-color: white;
 }
 
