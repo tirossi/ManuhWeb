@@ -49,3 +49,11 @@ body {
 .bg-manuh {
     background-color: rgba(232, 121, 36, 0.7);
 }
+
+.border {
+    border-bottom: 2px white;
+}
+
+.cursive {
+    font-family: 'Satisfy', cursive;
+}
