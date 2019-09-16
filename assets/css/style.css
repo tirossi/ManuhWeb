@@ -1,5 +1,8 @@
-.page-style {
+body {
     background-color: rgb(202, 81, 0);
+}
+
+.bg-frag-index {
     background-image: url(../visuals/icons/Fundo_frag.svg);
     background-size: 2000px;
     background-position-y: 100%;
@@ -47,5 +50,5 @@
 }
 
 .bg-manuh {
-    background-color: rgba(232, 121, 36, 0.7);
+    background-color: rgb(232, 121, 36);
 }
